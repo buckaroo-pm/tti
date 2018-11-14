@@ -1,4 +1,4 @@
-targets = [ "//:spirit" ]
+targets = [ "//:tti" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-config"

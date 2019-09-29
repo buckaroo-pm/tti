@@ -1,0 +1,25 @@
+targets = [ "//:tti" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.65.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+version = "1.65.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.65.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-function_types"
+version = "1.65.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.65.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.65.0"
